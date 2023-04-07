@@ -1,1 +1,1 @@
-# Satify
+# Musify
